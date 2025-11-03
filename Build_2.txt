@@ -1,0 +1,1 @@
+Optimizing bridging latency between Base and Polygon.
